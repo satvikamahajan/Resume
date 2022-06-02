@@ -1,0 +1,54 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap'); */
+ 
+
+h1{
+    /* font-family: 'Akaya Telivigala', cursive; */
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+ #co p{ /*font-family: 'Cookie', cursive; */
+    font-size: 18px;
+
+}
+li {
+    /* font-family: 'Cookie', cursive; */
+    font-size: 15px;
+}
+
+body{
+    border-style: solid;
+    border-radius:25px;
+    width: 800px;
+    background-image:url("pic.jpg");
+    margin: auto;
+    margin-top: 8px;
+}
+
+#total{
+    background-color: white;
+    padding: 30px;
+    border-radius: 25px;
+    box-shadow: 0 50px 100px 0 rgba(0,0,0,2);
+    transition: 0.3s;
+    }
+
+img{
+    width:100px;
+    height:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    border-style: solid;
+    border-spacing: 12px;
+    border-color:tomato;    
+    }
+ h3{/*font-family: 'Cookie', cursive; */
+    font-size: 20px;}
+td{
+    padding: 5px;
+}
